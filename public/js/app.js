@@ -1,5 +1,3 @@
-console.log('client side java script')
-
 
 
 const weatherElement = document.querySelector('form')
